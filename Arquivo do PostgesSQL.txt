@@ -1,0 +1,10 @@
+postgres://
+sutavvtdxckund
+:
+522e6d94d347b4fa1b932760d71211a5a9deb0243968b01c7a48fe8388478ca8
+@
+ec2-18-235-4-83.compute-1.amazonaws.com
+:
+5432
+/
+d72370lucp0f38
